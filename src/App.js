@@ -14,7 +14,7 @@ function App() {
         <Route path="/sobremin" element={<SobreMin />} />
         <Route path="*" element={<div>error...</div>}/>
       </Routes>
-    
+     {/* teste */}
       <Footer />
     </BrowserRouter>
   );
